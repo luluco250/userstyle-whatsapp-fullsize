@@ -1,0 +1,9 @@
+#app > .app-wrapper-web > .two,
+#app > .app-wrapper-web > .three {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+	max-width: unset;
+}
